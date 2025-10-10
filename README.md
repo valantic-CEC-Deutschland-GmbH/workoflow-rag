@@ -15,6 +15,7 @@ A production-ready Retrieval-Augmented Generation (RAG) system with advanced hyb
 - **Docker Deployment**: Fully containerized with health checks and monitoring
 - **Enhanced Name Search**: Special handling for person/entity name queries
 
+
 ## Architecture
 
 ```
